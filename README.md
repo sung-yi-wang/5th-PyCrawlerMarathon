@@ -8,7 +8,12 @@ D4. [HTTP Server-Client 架構說明與利用 Python 存取 API](https://github.
 D5. [實作 Day：API 資料串接 - 基本 API + JSON](https://github.com/sung-yi-wang/5th-PyCrawlerMarathon/tree/main/D005) - 示範存取、解析一個 JSON 格式的 API 資源  
 D6. [實作 Day：API 資料串接 - Headers](https://github.com/sung-yi-wang/5th-PyCrawlerMarathon/tree/main/D006) - 如何在 API 存取中加上標頭檔  
 ## 靜態網頁爬蟲技術
-
+D7. [HTTP 靜態網頁架構說明與淺談HTML / CSS / JavaScript](https://github.com/sung-yi-wang/5th-PyCrawlerMarathon/tree/main/D007) - 淺談 HTTP 網站架構與運作方式與 網頁基礎結構：HTML、CSS、JavaScript  
+D8. [靜態網頁的資料爬蟲策略](https://github.com/sung-yi-wang/5th-PyCrawlerMarathon/tree/main/D008) - 解析靜態網站的運算方式與爬蟲的實作策略  
+D9. [圖片下載](https://github.com/sung-yi-wang/5th-PyCrawlerMarathon/tree/main/D009) - 了解除了文字以外的圖片爬蟲技術  
+D10. [PyQuery/grab](https://github.com/sung-yi-wang/5th-PyCrawlerMarathon/tree/main/D010) - 介紹更多的資料爬蟲工具  
+D11. [Regular expression](https://github.com/sung-yi-wang/5th-PyCrawlerMarathon/tree/main/D011) - 學習利用正規表達式，過濾及擷取資料  
+D12. [實作 Day：ETTODAY 靜態爬蟲實作練習](https://github.com/sung-yi-wang/5th-PyCrawlerMarathon/tree/main/D012) - 以 ETTODAY 為例示範如何完成網頁爬蟲  
 ## 動態網頁爬蟲技術
 
 ## Scrapy 網站爬蟲框架
